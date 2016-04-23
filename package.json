@@ -1,6 +1,6 @@
 {
   "name": "babel-preset-flow",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Babel preset for flow typechecker",
   "main": "index.js",
   "scripts": {
