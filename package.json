@@ -20,5 +20,9 @@
   "bugs": {
     "url": "https://github.com/simnalamburt/babel-preset-flow/issues"
   },
-  "homepage": "https://github.com/simnalamburt/babel-preset-flow#readme"
+  "homepage": "https://github.com/simnalamburt/babel-preset-flow#readme",
+  "dependencies": {
+    "babel-plugin-syntax-flow": "^6.5.0",
+    "babel-plugin-transform-flow-strip-types": "^6.7.0"
+  }
 }
