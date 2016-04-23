@@ -1,0 +1,24 @@
+{
+  "name": "babel-preset-flow",
+  "version": "0.1.0",
+  "description": "Babel preset for flow typechecker",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/simnalamburt/babel-preset-flow.git"
+  },
+  "keywords": [
+    "babel",
+    "babel-preset",
+    "flow"
+  ],
+  "author": "Hyeon Kim <simnalamburt@gmail.com>",
+  "license": "Zlib",
+  "bugs": {
+    "url": "https://github.com/simnalamburt/babel-preset-flow/issues"
+  },
+  "homepage": "https://github.com/simnalamburt/babel-preset-flow#readme"
+}
