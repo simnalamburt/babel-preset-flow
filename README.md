@@ -1,4 +1,4 @@
-babel-preset-flow [![version-i][]][npm]
+babel-preset-flow [![Version]][npm]
 ========
 It contains `syntax-flow` and `transform-flow-strip-types` plugins.
 
@@ -16,5 +16,5 @@ module.exports = {
 
 Zlib License
 
-[npm]:          https://npmjs.org/package/babel-preset-flow
-[version-i]:    https://img.shields.io/npm/v/babel-preset-flow.svg
+[npm]: https://npmjs.org/package/babel-preset-flow
+[Version]: https://img.shields.io/npm/v/babel-preset-flow.svg
