@@ -1,17 +1,11 @@
-babel-preset-flow [![Version]][npm]
+:tada: *Transferred to the offical babel team* :tada:
 ========
-It contains `syntax-flow` and `transform-flow-strip-types` plugins.
+This package has been transferred to [official babel repo].
 
-```js
-// .babelrc
-{
-  "presets": ["flow"]
-}
-```
+| Version |
+|---------|
+| [![Version]][npm] |
 
--------
-
-Zlib License
-
+[official babel repo]: https://github.com/babel/babel/tree/master/packages/babel-preset-flow
 [npm]: https://npmjs.org/package/babel-preset-flow
 [Version]: https://img.shields.io/npm/v/babel-preset-flow.svg
