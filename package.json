@@ -1,4 +1,5 @@
 {
+  "private": true,
   "name": "babel-preset-flow",
   "version": "1.0.0",
   "description": "Babel preset for flow typechecker",
